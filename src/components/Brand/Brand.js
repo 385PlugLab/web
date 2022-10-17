@@ -9,10 +9,7 @@ const Brand = (props) => {
       className={styles.root}
       role={'presentation'}
       onClick={() => navigate('/')}
-    >
-      { <h4>PLUG-LAB</h4> }
-     
-    </div>
+    ><h4>PLUGLAB</h4></div>
   );
 };
 
