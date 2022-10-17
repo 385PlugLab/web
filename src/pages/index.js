@@ -48,7 +48,7 @@ const IndexPage = () => {
       {/* Collection Container */}
       <div className={styles.collectionContainer}>
         <Container size={'large'}>
-          <Title name={'New Collection'} />
+          <Title name={'Services'} />
           <ProductCollectionGrid />
         </Container>
       </div>
@@ -56,7 +56,7 @@ const IndexPage = () => {
       {/* New Arrivals */}
       <div className={styles.newArrivalsContainer}>
         <Container>
-          <Title name={'New Arrivals'} link={'/shop'} textLink={'view all'} />
+          <Title name={'Products'} link={'/shop'} textLink={'view all'} />
           <ProductCardGrid
             spacing={true}
             showSlider
@@ -75,9 +75,9 @@ const IndexPage = () => {
             altImage={'highlight image'}
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini highlight image'}
-            title={'Luxury Knitwear'}
-            description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
-            textLink={'shop now'}
+            title={'Secure Transactions.'}
+            description={`Plug-Lab serves as a broker during transactions. This protects our plugs and serves as a safety-net for the community.`}
+            textLink={'learn more'}
             link={'/shop'}
           />
         </Container>
@@ -85,10 +85,16 @@ const IndexPage = () => {
 
       {/* Promotion */}
       <div className={styles.promotionContainer}>
-        <Hero image={'/banner2.png'} title={`-50% off \n All Essentials`} />
+        <Hero image={'/banner2.png'} title={`daily fix?`} />
         <div className={styles.linkContainers}>
-          <Link to={'/shop'}>WOMAN</Link>
-          <Link to={'/shop'}>MAN</Link>
+          <Link to={'/shop'}>Amphetamines</Link>
+          <Link to={'/shop'}>Cannabis</Link>
+          <Link to={'/shop'}>Cocaine</Link>
+<Link to={'/shop'}>Ketamine</Link>
+<Link to={'/shop'}>Heroin</Link>
+          <Link to={'/shop'}>MDMA</Link>
+          <Link to={'/shop'}>Pills</Link>
+
         </div>
       </div>
 
