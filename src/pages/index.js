@@ -85,7 +85,7 @@ const IndexPage = () => {
 
       {/* Promotion */}
       <div className={styles.promotionContainer}>
-        <Hero image={'/banner2.png'} title={`daily fix?`} />
+        <Hero image={'/banner2.png'} title={`What is your habit?`} />
         <div className={styles.linkContainers}>
           <Link to={'/shop'}>Amphetamines</Link>
           <Link to={'/shop'}>Cannabis</Link>
@@ -108,7 +108,7 @@ const IndexPage = () => {
       {/* Blog Grid */}
       <div className={styles.blogsContainer}>
         <Container size={'large'}>
-          <Title name={'Journal'} subtitle={'Notes on life and style'} />
+          <Title name={'Terms'} subtitle={'making plug-lab a reality.'} />
           <BlogPreviewGrid data={blogData} />
         </Container>
       </div>
@@ -117,9 +117,9 @@ const IndexPage = () => {
       <div className={styles.sustainableContainer}>
         <Hero
           image={'/banner3.png'}
-          title={'Free Plugs?'}
+          title={'Free Drugs?'}
           subtitle={
-            'If you need something and you cannot afford it... we are here to help. <br>Plug-Lab VIPs receive a daily "get well" package.'
+            'If you need something and you cannot afford it... we are here to help. Plug-Lab VIPs receive a daily "get well" package.'
           }
           ctaText={'read more'}
           maxWidth={'660px'}
