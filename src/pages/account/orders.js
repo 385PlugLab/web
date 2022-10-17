@@ -86,8 +86,8 @@ const OrderPage = (props) => {
         <Breadcrumbs
           crumbs={[
             { link: '/', label: 'Home' },
-            { link: '/account', label: 'Account' },
-            { link: '/account/orders/', label: 'Orders' },
+            { link: '/account', label: 'Profile' },
+            { link: '/account/orders/', label: 'Transaction History' },
           ]}
         />
         <h1>Orders</h1>
