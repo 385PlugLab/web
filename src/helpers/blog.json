@@ -1,36 +1,32 @@
 [
     {
         "title": "Code of Ethics and The Agreement",
-        "category": "design",
+        "category": "onboarding",
         "alt": "Accountability",
-        "image": "/blogs/blog1.png",
+        "image": "/961CC667-0B5F-48D1-B8FB-A14E4B90BAE9.jpeg",
         "link": "/blog/sample",
-        "excerpt": "London-based seasonal British flowers and UK producers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
-    },
+        "excerpt": "Coming soon" },
     {
         "title": "Expectations and Responsibilities",
-        "category": "design",
-        "alt": "blog new standard of closing",
+        "category": "onboarding",
+        "alt": "You will be held to a standard.",
         "image": "/blogs/blog2.png",
         "link": "/blog/sample",
-        "excerpt": "London-based seasonal British flowers and UK producers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
-    },
+        "excerpt": "Coming soon " },
     {
         "title": "TrustScore System",
-        "category": "design",
-        "alt": "blog new standard of closing",
-        "image": "/blogs/blog3.png",
+        "category": "onboarding",
+        "alt": "How the system operates",
+        "image": "793A1EF9-7B69-4A01-813B-2C1411695E98.png",
         "link": "/blog/sample",
-        "excerpt": "London-basedsonal British flowers and UK producers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
-    },
+        "excerpt": "Coming Soon"},
     {
         "title": "The Command Interface",
-        "category": "design",
-        "alt": "blog new standard of closing",
+        "category": "onboarding",
+        "alt": "blog vnew standard of closing",
         "image": "/blogs/blog3.png",
         "link": "/blog/sample",
-        "excerpt": "London-based floral designer Flora Fricker champions seasonal British flowers and UK producers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
-    },
+        "excerpt": "This is how you access the Plug-Lab service" },
     {
         "title": "New Account Treasure Hunt",
         "category": "design",
