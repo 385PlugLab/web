@@ -101,10 +101,8 @@ const IndexPage = () => {
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'about PL'}
-        quote={
-          '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
-        }
+        title={'Loss Prevention & Crime Reduction '}
+        quote={"Our process has proven to lower crime rates by providing access to drugs- even when you can't afford it."}
       />
 
       {/* Blog Grid */}
@@ -119,9 +117,9 @@ const IndexPage = () => {
       <div className={styles.sustainableContainer}>
         <Hero
           image={'/banner3.png'}
-          title={'We are Sustainable'}
+          title={'Free Plugs?'}
           subtitle={
-            'From caring for our land to supporting our people, discover the steps we’re taking to do more for the world around us.'
+            'If you need something and you cannot afford it... we are here to help. <br>Plug-Lab VIPs receive a daily "get well" package.'
           }
           ctaText={'read more'}
           maxWidth={'660px'}
