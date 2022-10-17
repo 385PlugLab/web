@@ -22,7 +22,7 @@ const IndexPage = () => {
 
   const goToShop = () => {
     navigate('/shop');
-  };
+  }; 
 
   return (
     <Layout disablePaddingBottom>
@@ -30,9 +30,9 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'We provide services that keep people safe.'}
-        subtitle={'From products to transaction, Plug-Lab is with you.'}
-        ctaText={'shop now'}
+        title={'Unrecognized.'}
+        subtitle={'If you wish to access to the Plug-Lab Network, the onboarding process and device provisioning must be completed.'}
+        ctaText={'Apply Now'}
         ctaAction={goToShop}
       />
 
