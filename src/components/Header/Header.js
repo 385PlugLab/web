@@ -27,11 +27,11 @@ const Header = (prop) => {
   const [search, setSearch] = useState('');
 
   const searchRef = createRef();
-  const bannerMessage = 'Free shipping worldwide';
+  const bannerMessage = 'PLUG LAB IS COMING SOON!';
   const searchSuggestions = [
-    'Oversize sweaters',
-    'Lama Pajamas',
-    'Candles Cinnamon',
+    'Becoming a PLUG',
+    'Pricing',
+    'Using the COMMAND INTERFACE',
   ];
 
   const handleHover = (navObject) => {
