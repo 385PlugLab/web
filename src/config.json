@@ -27,7 +27,7 @@
       "subTitle": "Info",
       "links": [
         {
-          "text": "About Us",
+          "text": "About",
           "link": "/about"
         },
         {
@@ -37,6 +37,10 @@
         {
           "text": "Privacy Policy",
           "link": "/support#policy"
+        },
+         {
+          "text": "Login/Register",
+          "link": "/support#register"
         }
       ]
     },
@@ -56,7 +60,7 @@
           "link": "/support#returns"
         },
         {
-          "text": "How to use this theme",
+          "text": "SMS Gateway",
           "link": "/how-to-use"
         }
       ]
@@ -64,7 +68,7 @@
   ],
   "headerLinks": [
     {
-      "menuLabel": "Shop",
+      "menuLabel": "TXT",
       "menuLink": "/shop",
       "category": [
         {
