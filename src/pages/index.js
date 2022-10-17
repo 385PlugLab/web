@@ -29,10 +29,10 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/0CDB509D-0692-4B73-8EF6-5B10682EF41B.jpeg'}
-        title={'Hmmm...'}
+        image={'/F0950D88-C74F-434D-A8F2-EED101F95C77.jpeg'}
+        title={'Unrecognized.'}
         subtitle={'If you wish to access to the Plug-Lab Network, the onboarding process and device provisioning must be completed.'}
-        ctaText={'Apply Now'}
+        ctaText={'Get Plugged In'}
         ctaAction={goToShop}
       />
 
