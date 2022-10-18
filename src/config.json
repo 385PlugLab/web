@@ -72,47 +72,47 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "Drugs",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Cannabis",
+              "menuLink": "/shop"
+            },
+             {
+              "menuLabel": "Cocaine",
+              "menuLink": "/shop"
+            },
+             {
+              "menuLabel": "Ketamine",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Heroin",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Meth",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "Pills",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "Sex",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "All Sex Work",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Men",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "trousers",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "pants",
+              "menuLabel": "Women",
               "menuLink": "/shop"
             }
           ]
