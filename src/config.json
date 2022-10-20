@@ -1,10 +1,8 @@
 {
   "currencyList": [
-    { "value": "AUS", "label": "Australia (AUS $)" },
-    { "value": "CAD", "label": "Canada (CAD $)" },
+   
     { "value": "USD", "label": "United States (US $)" },
-    { "value": "EUR", "label": "Germany (EUR €)" },
-    { "value": "HKD", "label": "Hong Kong (HKD $)" }
+   
   ],
   "languageList": [
     { "value": "english", "label": "English" },
@@ -121,11 +119,11 @@
           "categoryLabel": "accessories",
           "submenu": [
             {
-              "menuLabel": "caps & scarves",
+              "menuLabel": "Water Pipes",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "bags",
+              "menuLabel": "Lighters",
               "menuLink": "/shop"
             }
           ]
@@ -145,36 +143,32 @@
   ],
   "filters": [
     {
-      "category": "colour",
+      "category": "area",
       "items": [
-        { "name": "Black", "value": true },
-        { "name": "Green", "value": false },
-        { "name": "Dark Blue", "value": false },
-        { "name": "Blue", "value": true },
-        { "name": "Grey", "value": false },
-        { "name": "Red", "value": false }
+        { "name": "North Salt Lake", "value": true },
+        { "name": "South Salt lake", "value": false },
+        { "name": "Cottonwood Heights", "value": false },
+        { "name": "Murray/Midvale", "value": true },
+        { "name": "Sandy", "value": false },
+        { "name": "Provo", "value": false }
       ]
     },
 
     {
-      "category": "size",
+      "category": "price",
       "items": [
-        { "name": "XXS", "value": false },
-        { "name": "XS", "value": false },
-        { "name": "S", "value": false },
-        { "name": "M", "value": false },
-        { "name": "L", "value": false },
-        { "name": "XL", "value": false },
-        { "name": "XXL", "value": false },
-        { "name": "Onesize", "value": false }
+        { "name": "$", "value": false },
+        { "name": "$$", "value": false },
+        { "name": "$$$", "value": false },
+        { "name": "$$$$", "value": false },
       ]
     },
     {
-      "category": "gender",
+      "category": "Delivery",
       "items": [
-        { "name": "Male", "value": false },
-        { "name": "Female", "value": false },
-        { "name": "Unisex", "value": false }
+        { "name": "Pick-up", "value": false },
+        { "name": "Local Delivery", "value": false },
+        { "name": "Shipping", "value": false }
       ]
     }
   ]
