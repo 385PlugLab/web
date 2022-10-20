@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/F0950D88-C74F-434D-A8F2-EED101F95C77.jpeg'}
-        title={'Unrecognized.'}
-        subtitle={'If you wish to access to the Plug-Lab Network, the onboarding process and device provisioning must be completed.'}
+        title={'Not plugged in?'}
+        subtitle={'If you wish to access the Plug-Lab Network, you must complete the onboarding process.'}
         ctaText={'Get Plugged In'}
         ctaAction={goToShop}
       />
@@ -39,8 +39,8 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          Plug-Lab is a service concept created by{' '}
-          <span className={styles.gold}>KJB design.</span>
+          THIS WEBSITE IS A PROP TO A MOTION PICTURE.{' '}
+          <span className={styles.gold}>PLEASE READ THE SITE TERMS TO LEARN MORE.</span>
         </p>
        
       </div>
