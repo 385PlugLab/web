@@ -146,11 +146,11 @@
       "category": "area",
       "items": [
         { "name": "North Salt Lake", "value": true },
-        { "name": "South Salt lake", "value": false },
-        { "name": "Cottonwood Heights", "value": false },
+        { "name": "South Salt lake", "value": true },
+        { "name": "Cottonwood Heights", "value": true },
         { "name": "Murray/Midvale", "value": true },
-        { "name": "Sandy", "value": false },
-        { "name": "Provo", "value": false }
+        { "name": "Sandy", "value": true },
+        { "name": "Provo", "value": true }
       ]
     },
 
