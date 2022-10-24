@@ -30,7 +30,7 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/F0950D88-C74F-434D-A8F2-EED101F95C77.jpeg'}
-        title={'Not plugged in?'}
+        title={'Have we met?'}
         subtitle={'If you wish to access the Plug-Lab Network, you must complete the onboarding process.'}
         ctaText={'Get Plugged In'}
         ctaAction={goToShop}
