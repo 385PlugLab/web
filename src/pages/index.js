@@ -36,14 +36,10 @@ const IndexPage = () => {
         ctaAction={goToShop}
       />
 
-      {/* Message Container */}
+      /* Message Contaier */
       <div className={styles.messageContainer}>
-        <p>
-          THIS WEBSITE IS A PROP TO A MOTION PICTURE.{' '}
-          <span className={styles.gold}>PLEASE READ THE SITE TERMS TO LEARN MORE.</span>
-        </p>
-       
-      </div>
+        <p>THIS WEBSITE IS A PROP TO A MOTION PICTURE.</p> 
+         <span className={styles.gold}>PLEASE READ THE AGREEMENT TO LEARN MORE.</span></div>
 
       {/* Collection Container */}
       <div className={styles.collectionContainer}>
@@ -73,7 +69,7 @@ const IndexPage = () => {
           <Highlight
             image={'/highlight.png'}
             altImage={'highlight image'}
-            miniImage={'/highlightmin.png'}
+            miniImage={'/secure.jpg'}
             miniImageAlt={'mini highlight image'}
             title={'Secure Transactions.'}
             description={`Plug-Lab serves as a broker during transactions. This protects our plugs and serves as a safety-net for the community.`}
@@ -85,7 +81,7 @@ const IndexPage = () => {
 
       {/* Promotion */}
       <div className={styles.promotionContainer}>
-        <Hero image={'/banner2.png'} title={`What is your habit?`} />
+        <Hero image={'/habits.png'} title={`What is your habit?`} />
         <div className={styles.linkContainers}>
           <Link to={'/shop'}>Amphetamines</Link>
           <Link to={'/shop'}>Cannabis</Link>
@@ -116,7 +112,7 @@ const IndexPage = () => {
       {/* Promotion */}
       <div className={styles.sustainableContainer}>
         <Hero
-          image={'/banner3.png'}
+          image={'/free_drugs.png'}
           title={'Free Drugs?'}
           subtitle={
             'If you need something and you cannot afford it... we are here to help. Plug-Lab VIPs receive a daily "get well" package.'
