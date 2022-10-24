@@ -67,10 +67,10 @@ const IndexPage = () => {
       <div className={styles.highlightContainer}>
         <Container size={'large'} fullMobile>
           <Highlight
-            image={'/highlight.png'}
-            altImage={'highlight image'}
+            image={'/secure.jpg'}
+            altImage={'secure image'}
             miniImage={'/secure.jpg'}
-            miniImageAlt={'mini highlight image'}
+            miniImageAlt={'mini secure image'}
             title={'Secure Transactions.'}
             description={`Plug-Lab serves as a broker during transactions. This protects our plugs and serves as a safety-net for the community.`}
             textLink={'learn more'}
@@ -81,7 +81,7 @@ const IndexPage = () => {
 
       {/* Promotion */}
       <div className={styles.promotionContainer}>
-        <Hero image={'/habits.png'} title={`What is your habit?`} />
+        <Hero image={'/habit.png'} title={`What is your habit?`} />
         <div className={styles.linkContainers}>
           <Link to={'/shop'}>Amphetamines</Link>
           <Link to={'/shop'}>Cannabis</Link>
@@ -114,9 +114,7 @@ const IndexPage = () => {
         <Hero
           image={'/free_drugs.png'}
           title={'Free Drugs?'}
-          subtitle={
-            'If you need something and you cannot afford it... we are here to help. Plug-Lab VIPs receive a daily "get well" package.'
-          }
+          subtitle={'If you need something and you cannot afford it... we are here to help. Plug-Lab VIPs receive a daily "get well" package.'}
           ctaText={'read more'}
           maxWidth={'660px'}
           ctaStyle={styles.ctaCustomButton}
