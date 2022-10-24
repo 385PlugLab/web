@@ -145,29 +145,29 @@
     {
       "category": "area",
       "items": [
-        { "name": "North Salt Lake", "value": true },
-        { "name": "South Salt lake", "value": true },
-        { "name": "Cottonwood Heights", "value": true },
-        { "name": "Murray/Midvale", "value": true },
-        { "name": "Sandy", "value": true },
-        { "name": "Provo", "value": true }
+        { "name": "North Salt Lake"},
+        { "name": "South Salt lake"},
+        { "name": "Cottonwood Heights"},
+        { "name": "Murray/Midvale" },
+        { "name": "Sandy"},
+        { "name": "Provo"}
       ]
     },
 
     {
       "category": "price",
       "items": [
-        { "name": "$", "value": true },
-        { "name": "$$", "value": true },
-        { "name": "$$$", "value": true },
-        { "name": "$$$$", "value": true },
+        { "name": "$"},
+        { "name": "$$"},
+        { "name": "$$$" },
+        { "name": "$$$$"}
       ]
     },
     {
       "category": "Delivery",
       "items": [
-        { "name": "Pick-up", "value": true },
-        { "name": "Local Delivery", "value": true },
+        { "name": "Pick-up"},
+        { "name": "Local Delivery"},
         { "name": "Shipping", "value": true }
       ]
     }
