@@ -157,18 +157,18 @@
     {
       "category": "price",
       "items": [
-        { "name": "$", "value": false },
-        { "name": "$$", "value": false },
-        { "name": "$$$", "value": false },
-        { "name": "$$$$", "value": false },
+        { "name": "$", "value": true },
+        { "name": "$$", "value": true },
+        { "name": "$$$", "value": true },
+        { "name": "$$$$", "value": true },
       ]
     },
     {
       "category": "Delivery",
       "items": [
-        { "name": "Pick-up", "value": false },
-        { "name": "Local Delivery", "value": false },
-        { "name": "Shipping", "value": false }
+        { "name": "Pick-up", "value": true },
+        { "name": "Local Delivery", "value": true },
+        { "name": "Shipping", "value": true }
       ]
     }
   ]
