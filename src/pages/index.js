@@ -36,7 +36,7 @@ const IndexPage = () => {
         ctaAction={goToShop}
       />
 
-      /* Message Contaier */
+     
       <div className={styles.messageContainer}>
         <p>THIS WEBSITE IS A PROP TO A MOTION PICTURE.</p> 
          <span className={styles.gold}>PLEASE READ THE AGREEMENT TO LEARN MORE.</span></div>
@@ -53,9 +53,9 @@ const IndexPage = () => {
       <div className={styles.newArrivalsContainer}>
         <Container>
           <Title name={'Products'} link={'/shop'} textLink={'view all'} />
-          <ProductCardGrid
+          <ProductCardGrid showSlider
             spacing={true}
-            showSlider
+            
             height={480}
             columns={3}
             data={newArrivals}
