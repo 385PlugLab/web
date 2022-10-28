@@ -30,23 +30,22 @@ const Contact = (props) => {
       <div className={styles.section}>
         <h4>Send Us A Message</h4>
         <p>
-          Our Customer Service team are here for all enquiries Monday to Friday,
-          9am - 5pm AEDT (Australian Eastern Daylight Savings Time).
+         Do you have a question or comment? We value your feedback and greatly appreciate all that you have to say.
         </p>
         <p>We look forward to hearing from you.</p>
       </div>
 
       <div className={styles.section}>
         <h4>Phone</h4>
-        <p>+1 424 280 4971</p>
-        <p>Monday to Friday - 9am - 5pm AEDT</p>
+        <p>+1 8608 801 801</p>
+        <p>24 Hours a day/ 7 Days a Week/ Open Holidays</p>
       </div>
 
       <div className={styles.section}>
         <h4>Email</h4>
         <p>
-          You can email our Customer Service team at customerservice@example.com
-          or via the contact form below:
+          You can email our team at info@plug-lab.com
+          or by filling out the form below:
         </p>
       </div>
 
