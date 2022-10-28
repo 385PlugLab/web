@@ -69,10 +69,9 @@ const Footer = (prop) => {
             })}
             <div className={styles.newsLetter}>
               <div className={styles.newsLetterContent}>
-                <span className={styles.linkTitle}>Newsletter</span>
+                <span className={styles.linkTitle}>Onboarding</span>
                 <p className={styles.promoMessage}>
-                  Get 15% off your first purchase! Plus, be the first to know
-                  about sales, new product launches and exclusive offers!
+                  We are looking for upstanding actors/characters that wish to serve their community. Do you think you have what it takes to be a plug? Hit us up with your e-mail and let us find out!
                 </p>
                 <form
                   className={styles.newsLetterForm}
@@ -167,13 +166,13 @@ const Footer = (prop) => {
                 )}
               </div>
               <span>
-                {new Date().getFullYear()} (c) . Built by{' '}
-                <Button target={true} href="https://www.matterdesign.com.au/">
-                  Matter.
+                {new Date().getFullYear()} (c) {' '}
+                <Button target={true} href="#">
+                  PLUG-LAB: a motion picture.
                 </Button>{' '}
                 Powered by{' '}
-                <Button target={true} href="https://jamm.matter.design/">
-                  JAMM.™
+                <Button target={true} href="#">
+                  🔌🫶🏿™
                 </Button>
               </span>
             </div>
