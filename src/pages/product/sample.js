@@ -8,9 +8,9 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import Container from '../../components/Container';
 import CurrencyFormatter from '../../components/CurrencyFormatter';
 import Gallery from '../../components/Gallery';
-import SizeList from '../../components/SizeList';
+
 import Split from '../../components/Split';
-import SwatchList from '../../components/SwatchList';
+
 import Layout from '../../components/Layout/Layout';
 
 import { generateMockProductData } from '../../helpers/mock';
