@@ -1,115 +1,100 @@
 [
     {
         "productCode": "MJUM8066-GYDZ",
-        "name": "Lambswool Crew Neck Jumper",
-        "vendor": "Sunspel",
-        "price": 75,
-        "alt": "lambswool crew neck jumper",
-        "image": "/products/pdp1.jpeg",
+        "name": "Methamphetamine: 1g",
+        "vendor": "PL",
+        "price": 20,
+        "alt": "20/g",
+        "image": "/products/meth.png",
         "colorOptions": [
-            {"color": "#000000", "title": "Anthracite Melange"},
-            {"color": "#4D34AE", "title": "Pale Purple"},
-            {"color": "#488266", "title": "Green Moss"}
+            {"color": "#000000", "title": "Clear"},
+           
         ],
-        "sizeOptions": ["xs", "s", "m", "l", "xl"],
-        "wishlist": true,
-        "tags": ["sample"],
+        "sizeOptions": ["xl"],
+        "wishlist": false,
+        "tags": ["amphetamines", "uppers"],
         "gallery": [
             {"image": "/products/pdp1.jpeg", "alt": "pdp description 1"},
             {"image": "/products/pdp2.jpeg", "alt": "pdp description 2"},
             {"image": "/products/pdp3.jpeg", "alt": "pdp description 3"},
             {"image": "/products/pdp4.jpeg", "alt": "pdp description 4"}
         ],
-        "description": "This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife. Once knitted, the garment is washed in Scottish spring water to make it beautifully soft."
+        "description": "60 for a Ball. 200 for an OZ." },
+    {
+        "name": "Methamphetamine: A Ball",
+        "price": 60,
+        "alt": "3g of clear",
+        "description": "3 Grams of grade AA Methamphetamine."
+        "image": "/products/meth.png",
+        "tags": ["amphetamines", "uppers"]
     },
     {
-        "name": "Classic T-Shirt",
-        "price": 75,
-        "alt": "classic t-shirt 1",
-        "image": "/products/shirt1.jpg",
-        "tags": ["shirt", "men"]
+        "name": "Heroin: 1g",
+        "price": 60,
+        "alt": "1g of black",
+        "description": "1 Grams of grade AA Heroin."
+        "image": "/products/heroin.png",
+        "tags": ["opiates", "downers"]
     },
     {
-        "name": "Classic T-Shirt",
-        "price": 75,
-        "alt": "classic t-shirt 2",
-        "image": "/products/shirt2.jpg",
-        "tags": ["shirt", "men"]
+        "name": "Heroin: 1 Ball",
+        "price": 180,
+        "alt": "3g of black",
+        "description": "3 Grams of grade AA Heroin."
+        "image": "/products/heroin.png",
+        "tags": ["opiates", "downers"]
     },
     {
-        "name": "Classic T-Shirt",
-        "price": 75,
-        "alt": "classic t-shirt 3",
-        "image": "/products/shirt3.jpg",
-        "tags": ["shirt", "men"]
-    },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 13.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman1.jpeg",
-        "tags": ["woman"],
+        "name": "Cocaine: 1g",
+        "price": 100,
+        "alt": "single gram of cocaine",
+        "description": "1 Grams of grade AA Cocaine."
+        "image": "/products/cocaine.png",
+        "tags": ["coke", "uppers"],
         "meta": "+ 2 colors"
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman2.jpeg",
+        "name": "Cannabis: 1g",
+        "price": 10,
+        "alt": "single gram of top shelf cannabis",
+        "description": "1 Gram of grade AA Cannabis."
+        "image": "/products/cannabis.png",
         "tags": ["woman"]
     },    
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 13.90,
-        "alt": "relaxed t shirt woman",
+        "name": "Ketamine: 80mg Gel Tab",
+        "price": 15,
+        "alt": "80mg tab of ketamine",
+        "description": "1 gel tab containing 80mg of Ketamine."
         "image": "/products/woman3.jpeg",
-        "tags": ["woman"],
+        "tags": ["disassociative", "ketamine"],
         "meta": "+ 2 colors"
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman4.jpeg",
-        "tags": ["woman"]
+        "name": "Bubbles",
+        "price": 5.00,
+        "alt": "high quality glass",
+        "description": "Used for smoking Methamphetamine and other substances."
+        "image": "/products/bubble.png",
+        "tags": ["pipes"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman5.jpeg",
-        "tags": ["woman"],
+        "name": "Butane",
+        "price": 5.00,
+        "alt": "8 times refined",
+        "description": "1 can of 8x refined butane."
+        "image": "/products/butane.png",
+        "tags": ["butane", "accesory"],
         "originalPrice": 31.50
 
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 21,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman6.jpeg",
-        "tags": ["woman"]
+        "name": "Stickers",
+        "price": 2,
+        "alt": "PlugLab Stickers",
+        "description": "PlugLab stickers"
+        "image": "/products/sticker.png",
+        "tags": ["stickers"]
     },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman3.jpeg",
-        "tags": ["woman"]
-    },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman2.jpeg",
-        "tags": ["woman"],
-        "originalPrice": 31.50
-
-    },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 21,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman1.jpeg",
-        "tags": ["woman"]
-    }
+   
   ]
