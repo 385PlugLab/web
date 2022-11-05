@@ -2,16 +2,9 @@
     {
         "productCode": "MJUM8066-GYDZ",
         "name": "Methamphetamine: 1g",
-        "vendor": "PL",
         "price": 20,
         "alt": "20/g",
         "image": "/products/meth.png",
-        "colorOptions": [
-            {"color": "#000000", "title": "Clear"},
-           
-        ],
-        "sizeOptions": ["xl"],
-        "wishlist": false,
         "tags": ["amphetamines", "uppers"],
         "gallery": [
             {"image": "/products/pdp1.jpeg", "alt": "pdp description 1"},
@@ -19,12 +12,13 @@
             {"image": "/products/pdp3.jpeg", "alt": "pdp description 3"},
             {"image": "/products/pdp4.jpeg", "alt": "pdp description 4"}
         ],
-        "description": "60 for a Ball. 200 for an OZ." },
+        "description": "60 for a Ball. 200 for an OZ." 
+    },
     {
         "name": "Methamphetamine: A Ball",
         "price": 60,
         "alt": "3g of clear",
-        "description": "3 Grams of grade AA Methamphetamine."
+        "description": "3 Grams of grade AA Methamphetamine.",
         "image": "/products/meth.png",
         "tags": ["amphetamines", "uppers"]
     },
@@ -32,7 +26,7 @@
         "name": "Heroin: 1g",
         "price": 60,
         "alt": "1g of black",
-        "description": "1 Grams of grade AA Heroin."
+        "description": "1 Grams of grade AA Heroin.",
         "image": "/products/heroin.png",
         "tags": ["opiates", "downers"]
     },
@@ -40,7 +34,7 @@
         "name": "Heroin: 1 Ball",
         "price": 180,
         "alt": "3g of black",
-        "description": "3 Grams of grade AA Heroin."
+        "description": "3 Grams of grade AA Heroin.",
         "image": "/products/heroin.png",
         "tags": ["opiates", "downers"]
     },
@@ -48,7 +42,7 @@
         "name": "Cocaine: 1g",
         "price": 100,
         "alt": "single gram of cocaine",
-        "description": "1 Grams of grade AA Cocaine."
+        "description": "1 Grams of grade AA Cocaine.",
         "image": "/products/cocaine.png",
         "tags": ["coke", "uppers"],
         "meta": "+ 2 colors"
@@ -57,7 +51,7 @@
         "name": "Cannabis: 1g",
         "price": 10,
         "alt": "single gram of top shelf cannabis",
-        "description": "1 Gram of grade AA Cannabis."
+        "description": "1 Gram of grade AA Cannabis.",
         "image": "/products/cannabis.png",
         "tags": ["woman"]
     },    
@@ -65,7 +59,7 @@
         "name": "Ketamine: 80mg Gel Tab",
         "price": 15,
         "alt": "80mg tab of ketamine",
-        "description": "1 gel tab containing 80mg of Ketamine."
+        "description": "1 gel tab containing 80mg of Ketamine.",
         "image": "/products/woman3.jpeg",
         "tags": ["disassociative", "ketamine"],
         "meta": "+ 2 colors"
@@ -74,7 +68,7 @@
         "name": "Bubbles",
         "price": 5.00,
         "alt": "high quality glass",
-        "description": "Used for smoking Methamphetamine and other substances."
+        "description": "Used for smoking Methamphetamine and other substances.",
         "image": "/products/bubble.png",
         "tags": ["pipes"]
     },
@@ -82,7 +76,7 @@
         "name": "Butane",
         "price": 5.00,
         "alt": "8 times refined",
-        "description": "1 can of 8x refined butane."
+        "description": "1 can of 8x refined butane.",
         "image": "/products/butane.png",
         "tags": ["butane", "accesory"],
         "originalPrice": 31.50
@@ -92,7 +86,7 @@
         "name": "Stickers",
         "price": 2,
         "alt": "PlugLab Stickers",
-        "description": "PlugLab stickers"
+        "description": "PlugLab stickers",
         "image": "/products/sticker.png",
         "tags": ["stickers"]
     },
