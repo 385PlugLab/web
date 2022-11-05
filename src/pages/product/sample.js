@@ -40,9 +40,7 @@ const ProductPage = (props) => {
             ]}
           />
           <div className={styles.content}>
-            <div className={styles.gallery}>
-              <Gallery images={sampleProduct.gallery} />
-            </div>
+           
             <div className={styles.details}>
               <h1>{sampleProduct.name}</h1>
             
