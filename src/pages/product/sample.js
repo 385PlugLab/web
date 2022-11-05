@@ -23,7 +23,7 @@ import AddItemNotificationContext from '../../context/AddItemNotificationProvide
 const ProductPage = (props) => {
   const ctxAddItemNotification = useContext(AddItemNotificationContext);
   const showNotification = ctxAddItemNotification.showNotification;
-  const sampleProduct = generateMockProductData(1, 'sample')[0];
+  const sampleProduct = generateMockProductData(1, 'amphetamines')[0];
   const [qty, setQty] = useState(0);
   const [isWishlist, setIsWishlist] = useState(false);
   
