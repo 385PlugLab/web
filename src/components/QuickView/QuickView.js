@@ -2,8 +2,7 @@ import React, { useState, useContext } from 'react';
 
 import Button from '../Button';
 import CurrencyFormatter from '../CurrencyFormatter';
-import SizeList from '../SizeList';
-import SwatchList from '../SwatchList';
+
 
 import { generateMockProductData } from '../../helpers/mock';
 import AddItemNotificationContext from '../../context/AddItemNotificationProvider';
@@ -16,11 +15,7 @@ const QuickView = (props) => {
 
   const ctxAddItemNotification = useContext(AddItemNotificationContext);
   const showNotification = ctxAddItemNotification.showNotification;
-  const [activeSwatch, setActiveSwatch] = useState(
-    sampleProduct.colorOptions[0]
-  );
-  const [activeSize, setActiveSize] = useState(sampleProduct.sizeOptions[0]);
-
+  
   const handleAddToBag = () => {
     close();
     showNotification();
@@ -43,19 +38,11 @@ const QuickView = (props) => {
         </div>
 
         <div className={styles.sectionContainer}>
-          <SwatchList
-            swatchList={sampleProduct.colorOptions}
-            activeSwatch={activeSwatch}
-            setActiveSwatch={setActiveSwatch}
-          />
+          
         </div>
 
         <div className={styles.sectionContainer}>
-          <SizeList
-            sizeList={sampleProduct.sizeOptions}
-            activeSize={activeSize}
-            setActiveSize={setActiveSize}
-          />
+          
         </div>
 
         <Button onClick={() => handleAddToBag()} fullWidth level={'primary'}>
